@@ -1,2 +1,2 @@
 # Box
-✔Programa que exibe o seu nome em uma caixa.
+✔Programa que exibe o meu nome em uma caixa.
